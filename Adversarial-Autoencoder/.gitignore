@@ -1,0 +1,9 @@
+*.pyc
+*.pkl
+*.gz
+*.bz2
+*.tar
+*.pt
+*.jpg
+models/
+
